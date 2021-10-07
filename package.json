@@ -1,0 +1,25 @@
+{
+  "name": "slack_bot",
+  "version": "0.0.0",
+  "description": "",
+  "main": "src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/khairallah17/slack_bot.git"
+  },
+  "author": "mohammed khairallah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khairallah17/slack_bot/issues"
+  },
+  "homepage": "https://github.com/khairallah17/slack_bot#readme",
+  "dependencies": {
+    "@slack/rtm-api": "^6.0.0",
+    "@slack/web-api": "^6.4.0",
+    "esm": "^3.2.25"
+  }
+}
