@@ -1,2 +1,2 @@
-export const SLACK_OAUTH_TOKEN = "xoxb-2565156346658-2603685140448-qQDX5ACB2gtpa9XRINUj7W4B";
+export const SLACK_OAUTH_TOKEN = "YOUR-TOKEN";
 export const BOT_SPAM_CHANNEL = "#bot-spam";
